@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandrine CYIMANA
-- 👀 I’m interested in Software Development, Data science engineering, and cyber security
+- 👀 I’m interested in Software Development, Data engineering, and cyber security
 - hold a Bachelors degree with Honours in Computer Enginneering, specialization in software engineering from UR_CST
 - 🌱 I’m currently pursuing Master's of Science in Information Technology at Carnegie Mellon University
 - 💞️ I’m looking to collaborate on technology project to improve society standards, Learning new skills 
